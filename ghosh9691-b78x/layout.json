@@ -1,0 +1,19 @@
+{
+    "content": [
+        {
+            "path": "html_ui/Pages/VCockpit/Instruments/Airliners/B787_10/COM/B787_10_COM.css",
+            "size": 4442,
+            "date": 132579895940688116
+        },
+        {
+            "path": "html_ui/Pages/VCockpit/Instruments/Airliners/B787_10/COM/B787_10_Com.html",
+            "size": 12067,
+            "date": 132595250281038818
+        },
+        {
+            "path": "html_ui/Pages/VCockpit/Instruments/Airliners/B787_10/COM/B787_10_COM.js",
+            "size": 24455,
+            "date": 132598080141817682
+        }
+    ]
+}
